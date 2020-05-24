@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [IF50 GK]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+Martin-Butzer-Gymnasium Dierdorf\\
+2020-2023
