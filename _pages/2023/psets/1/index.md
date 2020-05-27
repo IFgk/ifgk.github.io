@@ -1,3 +1,9 @@
+---
+title:     if gk 2023 pset 1
+permalink: /2023/psets/1
+layout:    page
+---
+
 # Problem Set 1
 
 Für diese Aufgabe wirst du die CS50 IDE benutzen, eine cloudbasierte integrierte Entwicklungsumgebung (**i**ntegrated **d**evelopment **e**nvironment).
