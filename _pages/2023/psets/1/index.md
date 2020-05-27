@@ -11,7 +11,7 @@ Für diese Aufgabe wirst du die CS50 IDE benutzen, eine cloudbasierte integriert
 # Aufgaben
 
 1. Besuche [CS50 IDE](https://ide.cs50.io) und melde dich mit einem Klick auf "Sign in with GitHub" an.
-2. Erledige [Hello](/hello)
+2. Erledige [Hello](/2023/psets/1/hello)
 3. Erledige mindestens eins von:
   * [BMI](bmi.md), wenn du dich noch nicht so sicher fühlst
   * [Newton](newton.md), wenn du dich schon etwas sicherer fühlst
