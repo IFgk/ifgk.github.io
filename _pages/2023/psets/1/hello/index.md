@@ -1,3 +1,9 @@
+---
+title:     if gk 2023 - Hello
+permalink: /2023/psets/1/hello
+layout:    page
+---
+
 # Hello
 
 ## Los geht's
